@@ -1,3 +1,12 @@
+/*
+ *@Author Andrew Basore May 2018
+ *
+ * StreamerTile takes a username as a prop, and makes and http
+ * request on the componentWillMount lifecycle hook. The resultant 
+ * data is stored on the state object and the information is populated
+ * within the render function.
+*/
+
 import React, { Component } from 'react';
 import axios from 'axios';
 

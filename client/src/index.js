@@ -1,3 +1,11 @@
+/*
+ *@Author Andrew Basore May 2018
+ *
+ * Entry point for React Application that powers the TwitchTV Viewer
+ * project for FreeCodeCamp
+*/
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
